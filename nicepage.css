@@ -12121,6 +12121,7 @@ section.u-image,
 }
 .u-overlap .u-header.u-sticky {
   position: fixed;
+  background-color: #FFF;
 }
 .u-overlap.u-overlap-transparent .u-header {
   background-color: transparent !important;
