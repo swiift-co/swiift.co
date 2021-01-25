@@ -31348,6 +31348,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header {
   background-image: none;
   background-color: #FFF;
+  box-shadow: 0px 3px 0px rgba(0,0,0,0.1);
 }
 
 .u-header .u-sheet-1 {
